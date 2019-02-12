@@ -1,6 +1,5 @@
 sudo: required
 language: cpp
-compiler: gcc
 dist: trusty
 
 before_install:
